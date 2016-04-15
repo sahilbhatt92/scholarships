@@ -16,7 +16,7 @@ git clone git@github.com:sahilbhatt92/scholarships.git
 * Setup virtualenv
 ```
 virtualenv env
-. env/bin/activate && cd scholarships(Directory)
+. env/bin/activate && cd scholarships
 ```
 * Install requirements
 ```
